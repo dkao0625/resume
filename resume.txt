@@ -1,1 +1,10 @@
-resume
+Objective
+    MIS student at Santa Clara University seeking opportunities to apply technology, data analysis, and problem-solving skills in a professional environment.
+
+Education
+    Santa Clara University
+    B.S. in Management Information Systems
+    Minor in Sustainability
+
+Skills
+    SQL, Excel, Git, Linux, Data Analysis, and Microsoft Office
